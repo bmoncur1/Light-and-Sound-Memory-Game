@@ -61,8 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 <iframe src="https://giphy.com/embed/0jgtSVobi1dRvsvhpG" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/0jgtSVobi1dRvsvhpG">via GIPHY</a> Part 2 recording of game won with message </p>
 
 <iframe src="https://giphy.com/embed/fXuw4CPtFWSg2xnPJz" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fXuw4CPtFWSg2xnPJz">via GIPHY</a> Random sequence plays across restarts/refresh </p>
-![](gif3-link-here)
-![](gif4-link-here)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
