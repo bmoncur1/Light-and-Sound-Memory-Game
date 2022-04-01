@@ -9,7 +9,7 @@ Submitted by: **Binta Moncur**
 
 Time spent: **30+** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/codepath-site-prework-bm?path=index.html%3A30%3A7
 
 ## Required Functionality
 
