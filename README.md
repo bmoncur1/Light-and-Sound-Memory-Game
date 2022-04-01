@@ -83,6 +83,7 @@ I used the following resources to help improve the function and look of the Ligh
 (g) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random (used to help generate random numbers within a range)
 
 
+
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
  
 The initial stages of the project went smoothly. Once the basic features of the game were successfully implemented, I created a checklist of additional features I wanted to implement. One-by-one, I created a plan for each task on my checklist. Since this was my first time working with HTML, CSS, and JavaScript, I started out by performing internet research about each task. Depending on the task, I either referenced a “developer website" or watched a tutorial. I used an HTML/CSS/JS text editor to practice. Here is a detailed example of one problem I faced while implementing the randomization functionality.
@@ -92,6 +93,7 @@ Challenge: Instead of using hard coded numbers in my “pattern array” (ex: va
 Solution: To achieve this, I decided to create a function that would fill an empty array of eight elements with integers ranging from 1 to 4 (to correspond with the 4 game buttons). I separated this task into two parts: 1. creating a function that fills an array, and 2. generating random  numbers in the range 1 to 10. I started out by creating a function that would fill an array of eight elements with any digit. Once that worked, I began working on generating random numbers. I researched ways to generate random numbers in JS. Using the JS Developer site, I was able to generate random integers ranging from 1 to 10. I then added the random generator to my function for filling an eight-element array. 
 
 At that point, the random number generator function getRandNum() could produce a result such as: [2, 6, 3, 9, 9, 5, 10, 3]. While I was able to fill an 8 element array with random integers, the problem with this result is that I did not have 5, 6, 9, or 10 game buttons. I only had 4 buttons, which meant I had to limit the random numbers being generated to numbers between 1 and 4. I was stumped. I watched tutorials, read about and practiced creating ranges of random numbers in a text editor. Once I felt comfortable doing so, I added the code to my project. I updated the pattern variable and the getRandNum() function. It worked! 
+ 
  
  
 
@@ -122,6 +124,7 @@ General Questions:
 * Typically, what is the day-to-day life of a web-developer (front-end, back-end, full-stack) like?
 * What are some recommended sites/classes to become better at web-development?
 * What percentage of the job is spent on various aspects of the job, i.e. coding, meetings, writing, etc?
+
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
