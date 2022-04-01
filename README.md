@@ -49,23 +49,31 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
 ![ezgif com-gif-maker (41)](https://user-images.githubusercontent.com/73797804/161189554-bb06e7ee-7a8b-435a-98b9-9056f124e230.gif)
 
 </a> 1. Game Intro Animation featuring h1 tag, p tag, and all game buttons. </p>
+
 
 ![ezgif com-gif-maker (43)](https://user-images.githubusercontent.com/73797804/161190250-e36abab6-0998-43dc-8339-7cc5c276f545.gif)
 
 </a> 2. Start/Stop button toggle when pressed </p>
 
+
 ![ezgif com-gif-maker (42)](https://user-images.githubusercontent.com/73797804/161189788-23af1d37-7c8a-4cc6-8756-4158fd0a35a5.gif)
 
 </a> 3. Three strikes and out! Player alerted with each strike. </p>
+
 
 ![ezgif com-gif-maker (32)](https://user-images.githubusercontent.com/73797804/161188898-d9a8b970-4ed6-433f-a2ce-6f07c2e4757e.gif)
 
 </a> 4. Part 1 recording of game won and game buttons light up and play a sound when clicked. </p>
 
-<iframe src="https://giphy.com/embed/0jgtSVobi1dRvsvhpG" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/0jgtSVobi1dRvsvhpG">via GIPHY</a> 5. Part 2 recording of game won with message </p>
+
+![ezgif com-gif-maker (40)](https://user-images.githubusercontent.com/73797804/161190489-26f81ba2-2344-41e8-b70a-2ecc8f660a9a.gif)
+
+</a> 5. Part 2 recording of game won with message </p>
+
 
 <iframe src="https://giphy.com/embed/fXuw4CPtFWSg2xnPJz" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fXuw4CPtFWSg2xnPJz">via GIPHY</a> 6. Random sequence plays when screen is refreshed </p>
 
