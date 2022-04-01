@@ -67,7 +67,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![ezgif com-gif-maker (32)](https://user-images.githubusercontent.com/73797804/161188898-d9a8b970-4ed6-433f-a2ce-6f07c2e4757e.gif)
 
-</a> 4. Part 1 recording of game won also game buttons light up and play a sound when clicked. </p><br/>
+</a> 4. Part 1 recording of game won. Also game buttons light up and play a sound when clicked. </p><br/>
 
 
 ![ezgif com-gif-maker (40)](https://user-images.githubusercontent.com/73797804/161190489-26f81ba2-2344-41e8-b70a-2ecc8f660a9a.gif)
