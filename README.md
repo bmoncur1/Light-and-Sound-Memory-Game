@@ -52,7 +52,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![ezgif com-gif-maker (41)](https://user-images.githubusercontent.com/73797804/161189554-bb06e7ee-7a8b-435a-98b9-9056f124e230.gif)
 
-</a> 1. Game Intro Animation featuring h1 tag, p tag, and all game buttons. </p>
+1. Game Intro Animation featuring h1 tag, p tag, and all game buttons. 
 
 
 ![ezgif com-gif-maker (43)](https://user-images.githubusercontent.com/73797804/161190250-e36abab6-0998-43dc-8339-7cc5c276f545.gif)
