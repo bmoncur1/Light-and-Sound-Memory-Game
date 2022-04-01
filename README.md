@@ -53,7 +53,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 </a> 1. Game Intro Animation featuring h1 tag, p tag, and all game buttons. </p>
 
-<iframe src="https://giphy.com/embed/vtEdgPlmMiHQL9tJ14" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vtEdgPlmMiHQL9tJ14">via GIPHY</a> 2. Start/Stop button toggle when pressed </p>
+![ezgif com-gif-maker (43)](https://user-images.githubusercontent.com/73797804/161190250-e36abab6-0998-43dc-8339-7cc5c276f545.gif)
+
+</a> 2. Start/Stop button toggle when pressed </p>
 
 ![ezgif com-gif-maker (42)](https://user-images.githubusercontent.com/73797804/161189788-23af1d37-7c8a-4cc6-8756-4158fd0a35a5.gif)
 
