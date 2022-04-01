@@ -57,7 +57,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![ezgif com-gif-maker (43)](https://user-images.githubusercontent.com/73797804/161190250-e36abab6-0998-43dc-8339-7cc5c276f545.gif)
 
-</a> 2. Start/Stop button toggle when pressed </p><br/>
+</a> 2. Start/Stop button toggles when pressed. </p><br/>
 
 
 ![ezgif com-gif-maker (42)](https://user-images.githubusercontent.com/73797804/161189788-23af1d37-7c8a-4cc6-8756-4158fd0a35a5.gif)
@@ -67,17 +67,17 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![ezgif com-gif-maker (32)](https://user-images.githubusercontent.com/73797804/161188898-d9a8b970-4ed6-433f-a2ce-6f07c2e4757e.gif)
 
-</a> 4. Part 1 recording of game won. Also game buttons light up and play a sound when clicked. </p><br/>
+</a> 4. Part 1 Recording of game won. Also game buttons light up and play a sound when clicked. </p><br/>
 
 
 ![ezgif com-gif-maker (40)](https://user-images.githubusercontent.com/73797804/161190489-26f81ba2-2344-41e8-b70a-2ecc8f660a9a.gif)
 
-</a> 5. Part 2 recording of game won with message </p><br/>
+</a> 5. Part 2 Recording of game won with message. </p><br/>
 
 
 ![ezgif com-gif-maker (44)](https://user-images.githubusercontent.com/73797804/161191088-27261624-1fc7-4d59-a961-a387a5c5e742.gif)
 
-</a> 6. Random sequence plays when screen is refreshed </p><br/>
+</a> 6. A random sequence plays when the screen is refreshed. </p><br/>
 
 
 ## Reflection Questions
