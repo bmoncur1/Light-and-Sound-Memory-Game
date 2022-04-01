@@ -97,7 +97,7 @@ I used the following resources to help improve the function and look of the Ligh
 
 (f) https://www.youtube.com/watch?v=Okgk2XQJKYY (glowing effect on heading and buttons)
 
-(g) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random (used to help generate random numbers within a range)
+(g) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random (used to help generate random numbers within a range)<br/>
 
 
 
@@ -109,7 +109,7 @@ Challenge: Instead of using hard coded numbers in my “pattern array” (ex: va
 
 Solution: To achieve this, I decided to create a function that would fill an empty array of eight elements with integers ranging from 1 to 4 (to correspond with the 4 game buttons). I separated this task into two parts: 1. creating a function that fills an array, and 2. generating random  numbers in the range 1 to 10. I started out by creating a function that would fill an array of eight elements with any digit. Once that worked, I began working on generating random numbers. I researched ways to generate random numbers in JS. Using the JS Developer site, I was able to generate random integers ranging from 1 to 10. I then added the random generator to my function for filling an eight-element array. 
 
-At that point, the random number generator function getRandNum() could produce a result such as: [2, 6, 3, 9, 9, 5, 10, 3]. While I was able to fill an 8 element array with random integers, the problem with this result is that I did not have 5, 6, 9, or 10 game buttons. I only had 4 buttons, which meant I had to limit the random numbers being generated to numbers between 1 and 4. I was stumped. I watched tutorials, read about and practiced creating ranges of random numbers in a text editor. Once I felt comfortable doing so, I added the code to my project. I updated the pattern variable and the getRandNum() function. It worked! 
+At that point, the random number generator function getRandNum() could produce a result such as: [2, 6, 3, 9, 9, 5, 10, 3]. While I was able to fill an 8 element array with random integers, the problem with this result is that I did not have 5, 6, 9, or 10 game buttons. I only had 4 buttons, which meant I had to limit the random numbers being generated to numbers between 1 and 4. I was stumped. I watched tutorials, read about and practiced creating ranges of random numbers in a text editor. Once I felt comfortable doing so, I added the code to my project. I updated the pattern variable and the getRandNum() function. It worked! <br/>
  
  
  
@@ -140,7 +140,7 @@ General Questions:
 
 * Typically, what is the day-to-day life of a web-developer (front-end, back-end, full-stack) like?
 * What are some recommended sites/classes to become better at web-development?
-* What percentage of the job is spent on various aspects of the job, i.e. coding, meetings, writing, etc?
+* What percentage of the job is spent on various aspects of the job, i.e. coding, meetings, writing, etc? <br/>
 
 
 
@@ -157,7 +157,7 @@ If given more time to work on this project, I would do the following:
 * Vary the levels and allow users to choose a level at the start of the game
 * Research the answers to many of the questions above
 * Take more time to ensure code is organized and easily readable
-* Learn about audio and how to change the pitch of each tone.
+* Learn about audio and how to change the pitch of each tone. <br/>
 
 
 
