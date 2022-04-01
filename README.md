@@ -69,12 +69,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 I used the following resources to help improve the function and look of the Light & Sound Memory Game:
 
 (a) https://www.youtube.com/watch?v=IhbSuNXNnnU (making shapes with CSS)
+
 (b) https://www.youtube.com/watch?v=Nloq6uzF8RQ (ease-in-out property for animation in heading)
+
 (c ) https://www.youtube.com/watch?v=uICsP_UInps (center start/stop button)
+
 (d) https://www.teachucomp.com/special-characters-in-html-tutorial/ (add ampersand)
+
 (e) https://www.youtube.com/watch?v=Syg_9iB1vco (animate title)
+
 (f) https://www.youtube.com/watch?v=Okgk2XQJKYY (glowing effect on heading and buttons)
+
 (g) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random (used to help generate random numbers within a range)
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
  
