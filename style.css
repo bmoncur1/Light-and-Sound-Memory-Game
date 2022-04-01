@@ -1,0 +1,151 @@
+body 
+{
+    font-family: helvetica, arial, sans-serif;
+    background-color: black;
+}
+
+h1 
+{
+  font-family: verdana, arial, sans-serif;
+}
+
+button 
+{
+  padding: 7px;
+  margin: 0px;
+  border-radius: 10px;
+}
+
+.box
+{
+  text-align: center;
+  position: relative;
+  top: 50%;
+  left: 50;
+  display: block;
+}
+
+.box h1 
+{
+  align-items: 30px;
+  color: #ffffff;
+  font-size: 2em;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  background: black;
+  position: relative;
+  animation: text 3s 1;
+  text-shadow: 0 0 10px #00b3ff,
+              0 0 20px #00b3ff,
+              0 0 40px #00b3ff,
+              0 0 80px #00b3ff,
+              0 0 120px #00b3ff;
+}
+
+.directions 
+{
+  font-size: 18px;
+  color: #6ab04c;
+}
+
+@keyframes text {
+  0% {
+    color: black;
+    margin-bottom: -40px;
+  }
+  30%{
+    letter-spacing: 10px;
+    margin-bottom: -40px;
+  }
+  85%{
+    letter-spacing: 5px;
+    margin-bottom: -40px;
+    
+  }
+}
+
+/* Green and Blue Buttons */
+#gameButtonAreaTop > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+/* Pink and Yellow Buttons */
+#gameButtonAreaBottom > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Button colors */
+#button1 {
+  background: #39FF14;
+  border-radius: 75% 12% 25% 12%;
+  position: absolute;
+  top: 40%;
+  left: 43%;
+  transform: translate(-50%, -50%);
+}
+#button2 {
+  background: #1F51FF;
+  border-radius: 12% 75% 12% 25%;
+  position: absolute;
+  top: 40%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+}
+#button3 {
+  background: #FF10F0;
+  border-radius: 12% 25% 12% 75%;
+  position: absolute;
+  top: 70%;
+  left: 43%;
+  transform: translate(-50%, -50%);
+}
+#button4 {
+  background: #FFF01F;
+  border-radius: 25% 12% 75% 12%;
+  position: absolute;
+  top: 70%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+}
+
+/* Change button colors (light up) on click */
+#button1:active, #button1.lit {
+  background: #39FF14;
+  box-shadow: 0 0 10px #39FF14,
+              0 0 20px #39FF14,
+              0 0 40px #39FF14,
+              0 0 80px #39FF14,
+              0 0 120px #39FF14;
+}
+#button2:active, #button2.lit {
+  background: #1F51FF;
+  box-shadow: 0 0 10px #1F51FF,
+              0 0 20px #1F51FF,
+              0 0 40px #1F51FF,
+              0 0 80px #1F51FF,
+              0 0 120px #1F51FF;
+}
+#button3:active, #button3.lit {
+  background: #FF10F0;
+  box-shadow: 0 0 10px #FF10F0,
+              0 0 20px #FF10F0,
+              0 0 40px #FF10F0,
+              0 0 80px #FF10F0,
+              0 0 120px #FF10F0;
+}
+#button4:active, #button4.lit {
+  background: #FFF01F;
+  box-shadow: 0 0 10px #FFF01F,
+              0 0 20px #FFF01F,
+              0 0 40px #FFF01F,
+              0 0 80px #FFF01F,
+              0 0 120px #FFF01F;
+}
