@@ -55,7 +55,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 <iframe src="https://giphy.com/embed/vtEdgPlmMiHQL9tJ14" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vtEdgPlmMiHQL9tJ14">via GIPHY</a> 2. Start/Stop button toggle when pressed </p>
 
-<iframe src="https://giphy.com/embed/Ok1DpJWRaGNdOOqxyC" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Ok1DpJWRaGNdOOqxyC">via GIPHY</a> 3. Three strikes and out! Player alerted with each strike. </p>
+![ezgif com-gif-maker (42)](https://user-images.githubusercontent.com/73797804/161189788-23af1d37-7c8a-4cc6-8756-4158fd0a35a5.gif)
+
+</a> 3. Three strikes and out! Player alerted with each strike. </p>
 
 ![ezgif com-gif-maker (32)](https://user-images.githubusercontent.com/73797804/161188898-d9a8b970-4ed6-433f-a2ce-6f07c2e4757e.gif)
 
