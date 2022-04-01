@@ -49,8 +49,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+![ezgif com-gif-maker (41)](https://user-images.githubusercontent.com/73797804/161189554-bb06e7ee-7a8b-435a-98b9-9056f124e230.gif)
 
-<iframe src="https://giphy.com/embed/PhfxfdhikKYjX8OVTa" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PhfxfdhikKYjX8OVTa">via GIPHY</a> 1. Game Intro Animation featuring h1 tag, p tag, and all game buttons. </p>
+</a> 1. Game Intro Animation featuring h1 tag, p tag, and all game buttons. </p>
 
 <iframe src="https://giphy.com/embed/vtEdgPlmMiHQL9tJ14" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vtEdgPlmMiHQL9tJ14">via GIPHY</a> 2. Start/Stop button toggle when pressed </p>
 
