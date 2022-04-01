@@ -118,6 +118,7 @@ General Questions:
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If given more time to work on this project, I would do the following:
 
 * Implement all of the optional features that I had not worked on yet such as adding more game buttons, speeding up the game, and adding a ticking clock. 
