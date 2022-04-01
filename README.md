@@ -75,7 +75,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 </a> 5. Part 2 recording of game won with message </p>
 
 
-<iframe src="https://giphy.com/embed/fXuw4CPtFWSg2xnPJz" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fXuw4CPtFWSg2xnPJz">via GIPHY</a> 6. Random sequence plays when screen is refreshed </p>
+![ezgif com-gif-maker (44)](https://user-images.githubusercontent.com/73797804/161191088-27261624-1fc7-4d59-a961-a387a5c5e742.gif)
+
+</a> 6. Random sequence plays when screen is refreshed </p>
 
 
 ## Reflection Questions
